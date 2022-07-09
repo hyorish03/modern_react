@@ -1,6 +1,6 @@
 import "./App.css";
-import Box from "./Box";
-import Title from "./Title";
+import Box from "./components/Box";
+import Title from "./components/Title";
 
 function App() {
   const number = 1;
